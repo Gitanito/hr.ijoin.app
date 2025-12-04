@@ -4,6 +4,7 @@ title: Kako Organizirati Beta Testiranje Bez Muke- Maksimalna Odazivnost
 subtitle: Prestanite gubiti potencijalne beta testere zbog kompliciranih registracija i prijava
 tags: [organizacija događaja, beta testiranje]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Gubiti Beta Testere - Maksimalna Odazivnost za Vaše Inovacije

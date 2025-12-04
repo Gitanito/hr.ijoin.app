@@ -4,6 +4,7 @@ title: Spontani Izlazak u Grad- Kako Organizirati Ekipu u 5 Minuta
 subtitle: Zaboravite beskonačne WhatsApp poruke- Povećajte odaziv za vašu spontanu zabavu
 tags: [organizacija događaja, spontana druženja]
 author: ijoin.app
+language: hr
 ---
 # Spontani Izlazak u Grad- Kako Organizirati Ekipu u 5 Minuta
 

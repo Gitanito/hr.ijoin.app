@@ -4,6 +4,7 @@ title: Kako Jednostavno Organizirati Skill-Share Radionice Bez Komplikacija
 subtitle: Povećajte odaziv na vaše lokalne radionice i tečajeve
 tags: [organizacija događaja, skill-share]
 author: ijoin.app
+language: hr
 ---
 # Kako Povećati Odaziv na Vaše Lokalne Skill-Share Radionice
 

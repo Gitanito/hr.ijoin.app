@@ -4,6 +4,7 @@ title: Kako Organizirati Tjedni Klub Čitatelja Bez Kaosa Potvrda
 subtitle: Maksimalna odazivnost i minimalna gnjavaža za organizatore zajednica i klubova
 tags: [organizacija događaja, klub čitatelja]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Loviti Potvrde- Osigurajte Savršen Odaziv za Vaš Klub Čitatelja

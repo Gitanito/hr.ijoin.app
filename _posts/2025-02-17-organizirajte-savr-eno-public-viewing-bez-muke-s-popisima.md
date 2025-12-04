@@ -4,6 +4,7 @@ title: Organizirajte savršeno Public Viewing bez muke s popisima
 subtitle: Kako jednostavno okupiti ekipu za gledanje utakmice i dobiti točan broj potvrda
 tags: [organizacija događaja, Public Viewing]
 author: ijoin.app
+language: hr
 ---
 
 # Organizirajte Savršeno Public Viewing bez Muke s Popisima

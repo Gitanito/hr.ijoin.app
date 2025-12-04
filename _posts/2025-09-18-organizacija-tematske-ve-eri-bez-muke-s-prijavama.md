@@ -4,6 +4,7 @@ title: Organizacija Tematske Večeri Bez Muke s Prijavama
 subtitle: Kako mala knjižnica ili centar mogu jednostavno organizirati događaj i pratiti sudionike
 tags: [organizacija događaja, prijava gostiju]
 author: ijoin.app
+language: hr
 ---
 
 # Organizirajte Savršenu Književnu Večer ili Diskusiju Bez Komplikacija

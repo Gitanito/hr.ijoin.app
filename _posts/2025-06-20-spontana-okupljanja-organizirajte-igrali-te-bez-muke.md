@@ -4,6 +4,7 @@ title: Spontana Okupljanja - Organizirajte Igralište Bez Muke
 subtitle: Kako Roditelji Brzo Dogovaraju Igrališne Susrete i Izlete
 tags: [organizacija događaja, roditeljstvo]
 author: ijoin.app
+language: hr
 ---
 
 # Spontana Okupljanja - Organizirajte Igrališne Susrete Bez Muke

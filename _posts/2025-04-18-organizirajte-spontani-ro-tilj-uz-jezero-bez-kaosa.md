@@ -4,6 +4,7 @@ title: Organizirajte Spontani Roštilj Uz Jezero Bez Kaosa
 subtitle: Kako postići maksimalan odaziv gostiju za vaš sljedeći neformalni događaj
 tags: [organizacija događaja, roštilj]
 author: ijoin.app
+language: hr
 ---
 
 # Organizirajte Savršeni Spontani Roštilj Uz Jezero Bez Muke

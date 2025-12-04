@@ -4,6 +4,7 @@ title: Kako Jednostavno Upravljati Dolascima Sportskog Tima
 subtitle: Maksimalna prisutnost na treningu bez gnjavaže oko registracije
 tags: [organizacija događaja, sportski tim]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Ganjati Roditelje - Povećajte Prisutnost na Treningu s [ijoin.app](https://ijoin.app/index-hr.html)

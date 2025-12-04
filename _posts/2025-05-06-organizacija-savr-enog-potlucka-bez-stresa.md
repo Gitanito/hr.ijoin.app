@@ -4,6 +4,7 @@ title: Organizacija savršenog Potlucka bez stresa
 subtitle: Kako jednostavno upravljati popisom gostiju i jelima za zajedničke večere
 tags: [organizacija događaja, zajednička večera]
 author: ijoin.app
+language: hr
 ---
 
 # Organizacija Potluck Večere za Stanare ili Prijatelje - Jednostavno i Besplatno!

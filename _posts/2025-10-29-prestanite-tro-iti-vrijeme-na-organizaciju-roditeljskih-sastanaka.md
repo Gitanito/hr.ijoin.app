@@ -4,6 +4,7 @@ title: Prestanite Trošiti Vrijeme na Organizaciju Roditeljskih Sastanaka
 subtitle: Maksimalna Odazivnost za Školsko Ljetno Druženje Bez Komplicirane Registracije
 tags: [organizacija događaja, roditeljski sastanci]
 author: ijoin.app
+language: hr
 ---
 # Prestanite Trošiti Vrijeme na Organizaciju Roditeljskih Sastanaka
 

@@ -4,6 +4,7 @@ title: Organizirajte susjedsku pomoć bez muke u 3 klika
 subtitle: Kako jednostavno okupiti susjede za zajedničke akcije i projekte
 tags: [susjedska-pomoć, organizacija-događaja]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite gubiti vrijeme na WhatsApp grupe- Okupljanje susjeda za akcije nikad nije bilo lakše

@@ -4,6 +4,7 @@ title: Prekinite Muku S Koordinacijom Prijevoza Na Izlet
 subtitle: Kako jednostavno organizirati prijevoz i povećati odaziv roditelja bez registracije
 tags: [organizacija događaja, prijevoz izlet]
 author: ijoin.app
+language: hr
 ---
 
 # Zaboravite Beskrajne E-mailove - Organizirajte Prijevoz Za Izlet U 3 Klika

@@ -4,6 +4,7 @@ title: Organizacija Mjesečnog Poslovnog Stammtischa Bez Muke
 subtitle: Kako lokalni poduzetnici maksimiziraju odaziv na sastanke i umrežavanje
 tags: [poslovno umrežavanje, organizacija događaja]
 author: ijoin.app
+language: hr
 ---
 
 # Organizacija Mjesečnog Poslovnog Stammtischa Bez Muke

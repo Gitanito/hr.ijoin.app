@@ -4,6 +4,7 @@ title: Kako Osigurati Maksimalan Odaziv za Feedback Sesije
 subtitle: Organizacija događaja bez registracije za sudionike
 tags: [organizacija događaja, feedback sesije]
 author: ijoin.app
+language: hr
 ---
 # Prestanite Gubiti Vrijeme na Komplicirane Registracije za Vaše Feedback Sesije
 

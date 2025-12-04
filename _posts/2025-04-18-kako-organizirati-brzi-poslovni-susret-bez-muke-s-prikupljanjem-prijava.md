@@ -4,6 +4,7 @@ title: Kako Organizirati Brzi Poslovni Susret Bez Muke s Prikupljanjem Prijava
 subtitle: Jednostavno rješenje za uspješne profesionalne meetupe i networking događaje
 tags: [organizacija događaja, poslovni meetup]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Ganjati Odgovore: Kako Profesionalni Meetup Organizirati Jednim Linkom

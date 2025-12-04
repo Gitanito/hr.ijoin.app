@@ -4,6 +4,7 @@ title: Kraj Muke s Roditeljskim Sastancima - Jednostavno Online Zakazivanje
 subtitle: Kako ijoin.app rješava kaos rasporeda za roditeljske sastanke
 tags: [roditeljski-sastanci, online-zakazivanje]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Ganjati Roditelje - Učinite Zakazivanje Roditeljskih Sastanaka Bezbolnim

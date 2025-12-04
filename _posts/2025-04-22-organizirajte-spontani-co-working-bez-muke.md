@@ -4,6 +4,7 @@ title: Organizirajte Spontani Co-Working Bez Muke
 subtitle: Kraj mukama s potvrđivanjem dolazaka za vaše fleksibilne sastanke
 tags: [coworking, event-organizacija]
 author: ijoin.app
+language: hr
 ---
 # Organizirajte Spontani Co-Working Bez Muke
 

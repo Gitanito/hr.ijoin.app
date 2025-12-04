@@ -4,6 +4,7 @@ title: Organizirajte Kreativne Radionice Bez Muke i Registracije
 subtitle: Kako maksimizirati odaziv na vaš besplatni događaj
 tags: [organizacija događaja, radionice]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Ganjati Prijave - Neka Se Gosti Sami Jave za Vašu Radionicu

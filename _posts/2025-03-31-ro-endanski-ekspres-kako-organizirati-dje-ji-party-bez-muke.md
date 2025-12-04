@@ -4,6 +4,7 @@ title: Rođendanski Ekspres - Kako Organizirati Dječji Party Bez Muke
 subtitle: Organizirajte savršenu rođendansku proslavu s maksimalnim odazivom i minimalnim stresom
 tags: [organizacija događaja, dječji rođendan]
 author: ijoin.app
+language: hr
 ---
 
 # Zaboravite na Kaos Pozivnica - Digitalno Planiranje Dječjih Zabava

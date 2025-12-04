@@ -4,6 +4,7 @@ title: Organizirajte savršeni Pre-Party bez stresa - Ključ za maksimalan odazi
 subtitle: Kako jednostavno prikupiti prijave gostiju za događaje s jednim magičnim linkom
 tags: [organizacija događaja, prijave gostiju]
 author: ijoin.app
+language: hr
 ---
 # Organizirajte Pre-Party za pamćenje - Bez gnjavaže prijave gostiju
 

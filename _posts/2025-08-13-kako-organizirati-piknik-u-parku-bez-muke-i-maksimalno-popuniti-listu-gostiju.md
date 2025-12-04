@@ -4,6 +4,7 @@ title: Kako Organizirati Piknik u Parku bez Muke i Maksimalno Popuniti Listu Gos
 subtitle: Zaboravite beskonačne WhatsApp grupe - Organizirajte spontana događanja bez registracije i prijava
 tags: [organizacija događaja, jednostavan RSVP]
 author: ijoin.app
+language: hr
 ---
 
 # Spontani Piknik u Parku- Od Ideje do Pune Deke za Manje od Pet Minuta

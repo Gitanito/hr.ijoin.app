@@ -4,6 +4,7 @@ title: Organizirajte Savršenu Susjedsku Feštu Bez Stresa
 subtitle: Kako jednostavno prikupiti prijave i dogovoriti zadatke za vašu feštu
 tags: [organizacija događaja, susjedska fešta]
 author: ijoin.app
+language: hr
 ---
 # Organizacija Susjedske Fešte - Jednostavno i Besplatno
 

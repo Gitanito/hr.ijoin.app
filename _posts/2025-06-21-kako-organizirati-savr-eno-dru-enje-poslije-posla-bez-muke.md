@@ -4,6 +4,7 @@ title: Kako Organizirati Savršeno Druženje Poslije Posla - Bez Muke
 subtitle: Povećajte odaziv kolega na After-Work događanja uz jednostavan alat
 tags: [Organizacija Događaja, After Work Drinks]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Loviti Odgovore - Brza Organizacija After-Work Druženja

@@ -4,6 +4,7 @@ title: Prestanite gubiti polaznike - Brza prijava za vaš tečaj keramike
 subtitle: Maksimalizirajte odaziv na vaš tečaj lončarstva bez kompliciranih registracija
 tags: [tečaj lončarstva, prijava tečaj]
 author: ijoin.app
+language: hr
 ---
 
 # Želite li ispuniti svoj **tečaj lončarstva** bez muke s prijavama?

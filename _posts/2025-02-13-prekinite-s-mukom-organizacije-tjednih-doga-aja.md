@@ -4,6 +4,7 @@ title: Prekinite s mukom organizacije tjednih događaja
 subtitle: Kako jednostavno organizirati tjedne sastanke bez beskonačnih poruka i registracija
 tags: organizacija-događaja, tjedni-sastanci
 author: ijoin.app
+language: hr
 ---
 # Prekinite s mukom organizacije tjednih događaja
 

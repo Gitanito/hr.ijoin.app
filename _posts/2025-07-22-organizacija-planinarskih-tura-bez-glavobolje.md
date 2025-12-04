@@ -4,6 +4,7 @@ title: Organizacija Planinarskih Tura Bez Glavobolje
 subtitle: Kako jednostavno okupiti ekipu za planinarenje ili bicikliranje
 tags: [organizacija događaja, planinarenje]
 author: ijoin.app
+language: hr
 ---
 # Okupite Ekipu za Planinarenje ili Bicikliranje Bez Muke
 

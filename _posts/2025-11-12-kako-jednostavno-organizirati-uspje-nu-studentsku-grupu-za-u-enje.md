@@ -4,6 +4,7 @@ title: Kako Jednostavno Organizirati Uspješnu Studentsku Grupu za Učenje
 subtitle: Maksimizirajte odaziv i fokus bez gnjavaže s prijavama
 tags: [studentska organizacija, učenje]
 author: ijoin.app
+language: hr
 ---
 
 # Prestanite Ganjati Kolege - Organizirajte Učenje za Ispit Bez Muke Uz [ijoin.app](https://ijoin.app/index-hr.html)

@@ -4,6 +4,7 @@ title: Kako Organizirati Ekskluzivnu Pop-up Večeru Bez Muke
 subtitle: Povećajte odaziv gostiju i upravljajte detaljima lokacije s jednim linkom
 tags: [organizacija događaja, pop-up večera]
 author: ijoin.app
+language: hr
 ---
 
 # Tajna Organizacije Pop-up Večere Koja Osvaja

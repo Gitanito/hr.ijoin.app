@@ -4,6 +4,7 @@ title: Prestanite Ganjati Volontere - Brza Koordinacija Pomoći za Školske Doga
 subtitle: Kako ijoin.app rješava kaos organizacije volontera za školske priredbe i sajmove
 tags: [organizacija događaja, školski volonteri]
 author: ijoin.app
+language: hr
 ---
 # Prestanite Ganjati Volontere - Brza Koordinacija Pomoći za Školske Događaje
 

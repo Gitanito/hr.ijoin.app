@@ -4,6 +4,7 @@ title: Prestanite Ganjati Odgovore - Napravite Savršenu Organizaciju Prijevoza
 subtitle: Kako ijoin.app rješava kaos dogovaranja zajedničkih vožnji za sportske i redovne događaje
 tags: [organizacija događaja, zajednička vožnja]
 author: ijoin.app
+language: hr
 ---
 
 # Organizacija Prijevoza Bez Muke - Kako ijoin.app Transformira Vaše Događaje

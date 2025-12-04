@@ -4,6 +4,7 @@ title: Organizirajte savršeni Alumni Stammtisch - bez gnjavaže oko prijava
 subtitle: Maksimalna odazivnost bivših studenata za vaša druženja
 tags: [organizacija događaja, alumni druženja]
 author: ijoin.app
+language: hr
 ---
 
 # Organizirajte Alumni Stammtisch - Povežite Bivše Studente Brže Nego Ikad
